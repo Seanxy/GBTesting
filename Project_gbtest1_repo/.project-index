@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "id": "7575614e-4e23-40f9-a093-74ab08a6ee73:0",
+      "projectId": "SW5qcfpL",
+      "filePath": "Project_gbtest1_repo/.project-index",
+      "docIndex": 0,
+      "assetType": "support",
+      "lastIndexed": 1786956608965,
+      "schemaVersion": 1
+    },
+    {
+      "id": "86c9a50d-ae34-4e28-a5e8-002f0fd44c26:0",
+      "projectId": "SW5qcfpL",
+      "filePath": "Project_gbtest1_repo/Product_gbtest2.yaml",
+      "docIndex": 0,
+      "assetType": "resource",
+      "lastIndexed": 1787031726632,
+      "schemaVersion": 1,
+      "kind": "Product",
+      "name": "Product_gbtest2",
+      "namespace": "Project_gbtest1_repo",
+      "version": "1.0",
+      "contentHash": "3ed2fcf93a8e7b45"
+    }
+  ],
+  "edges": []
+}
