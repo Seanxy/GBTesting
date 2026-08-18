@@ -1,0 +1,11 @@
+kind: Product
+apiVersion: api.ibm.com/v1
+metadata:
+  name: Product_gbtest2
+  namespace: Project_gbtest1_repo
+  version: '1.0'
+  tags: []
+  description: ''
+spec:
+  apis: []
+  plans: []
